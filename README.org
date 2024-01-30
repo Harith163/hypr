@@ -1,0 +1,10 @@
+
+A Hyprland config based on the catppuccin theme.
+
+* Packages needed
+1) Hyprland
+2) Hyprpaper
+3) Swaylock-effects
+4) Syncthing
+5) Ulauncher
+6) Waybar
